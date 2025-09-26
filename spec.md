@@ -1,4 +1,4 @@
-MVP focused on email.
+MVP focused on email. AI generated
 
 ### **Phase 0: The Blueprint & Foundation**
 
