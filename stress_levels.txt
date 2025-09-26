@@ -1,0 +1,64 @@
+"How much stress did each of the apps cause you?"
+Likert 1-5 scale, 1 = no stress, 5 = extreme stress
+
+2016
+- Messenger - 5
+- Youtube - 1
+- Slack - N/A
+- Email - 4
+
+2017
+- Messenger - 5
+- Youtube - 1
+- Slack - 5
+- Email - 3
+
+2018
+- Messenger - N/A
+- Youtube - 1
+- Slack - N/A
+- Email - 2
+
+2019
+- Messenger - N/A
+- Youtube - 1
+- Slack - 2
+- Email - 3
+
+2020
+- Messenger - N/A
+- Youtube - 1
+- Slack - 2
+- Email - 2
+
+2021
+- Messenger - 5
+- WhatsApp - 2
+- Youtube - 3
+- Slack - 2
+- Email - 3
+
+2022
+- Messenger - N/A
+- WhatsApp - N/A
+- Youtube - 2
+- Slack - 2
+- Email - 3
+
+2023
+- Messenger - N/A
+- WhatsApp - 4
+- Youtube - 2
+- Slack - 5
+- Email - 4
+
+2024
+- Messenger - N/A
+- Youtube - 3
+- Slack - 5
+- Email - 5
+
+2025
+- Youtube - 1
+- Slack - 5
+- Email - 5
