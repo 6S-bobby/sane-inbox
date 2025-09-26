@@ -1,4 +1,7 @@
 Unanswered questions will probably be important
 - How much context is needed to respond? How many api calls are there? Will api costs be too high?
+  - (how does cursor do it? With $20/month... back of envelope calculation, if using agentic low cost models like gemini 2.5 flash in my opinion this is roughly 5000 queries, and for non agentic perhaps 25000 queries (unsure))
+  - assuming that unrelated texts and large scale channels are filtered out (may have extra costs, or perhaps use heuristics), AI estimates 0.251M tok/day, with roughly 2:1 input-output ratio, this would be 3.6M input tok/month and 1.8M output tok/month assuming 22 day month. Assuming input tokens $0.5 per mil tokens and output tokens $1.5 per mil tokens, this would be 1.8 + 2.7 = $4.5 / month, while we can charge $10/month for a $5.5/month margin?
+  - engineering may help (caching, routing to different types of models based on use, etc)
 - How to determine where to activate this (for example, when we expand to slack, in amazon's slack there are some channels mostly q&a or benefits or it help with thousands of people, it shouldn't be activated anywhere)
 - Can we invade messenger with this crutch? Slack and email I'm pretty sure is possible, but it may be harder in messenger? I'm not sure - possibly it's universally possible as a plug-in in browser, but what about the apps on the phone? If the intervention can't affect the apps on the phone (which a large amount of people use, e.g. slack, messenger, and apple mail, etc), this may be a major problem.
