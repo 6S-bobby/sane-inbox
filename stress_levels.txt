@@ -5,19 +5,19 @@ Likert 1-5 scale, 1 = no stress, 5 = extreme stress
 - Messenger - 5
 - Youtube - 1
 - Slack - N/A
-- Email - 4
+- Email - 5
 
 2017
 - Messenger - 5
 - Youtube - 1
 - Slack - 5
-- Email - 3
+- Email - 5
 
 2018
 - Messenger - N/A
 - Youtube - 1
 - Slack - N/A
-- Email - 2
+- Email - 3
 
 2019
 - Messenger - N/A
